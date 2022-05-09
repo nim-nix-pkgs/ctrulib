@@ -7,7 +7,7 @@
   "license": "GPLv2",
   "web": "https://github.com/skyforce77/ctrulib-nim",
   "refs": [
-    "fatal: unable to access 'https://github.com/skyforce77/ctrulib-nim.git/': Failed to connect to github.com port 443 after 129582 ms: Connection timed out",
+    "fatal: unable to access 'https://github.com/skyforce77/ctrulib-nim.git/': Could not resolve host: github.com",
     ""
   ],
   "heads": []
