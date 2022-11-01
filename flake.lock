@@ -12,11 +12,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1662245244,
-        "narHash": "sha256-PbvnrHk/KeFAw8FiCli7IJfb4YR8pReQDqVgiHDCIj0=",
+        "lastModified": 1662254421,
+        "narHash": "sha256-I0wA1ZGwuQPjycr9TgsTcdUWDCWQ9CDQlDkcD2P9ixw=",
         "owner": "nim-nix-pkgs",
         "repo": "ctrulib",
-        "rev": "951ed84cd3affcd848f5f767f0876de1a23fc90c",
+        "rev": "0277d33abae6b86507cb2ebeded13f54abe6ecc4",
         "type": "github"
       },
       "original": {
@@ -50,11 +50,11 @@
     },
     "nixpkgs": {
       "locked": {
-        "lastModified": 1662096612,
-        "narHash": "sha256-R+Q8l5JuyJryRPdiIaYpO5O3A55rT+/pItBrKcy7LM4=",
+        "lastModified": 1667110639,
+        "narHash": "sha256-4FbPESZ5LbqQxkJJJBAfk/zKgF9h/4kyUwjjpJwYlbc=",
         "owner": "NixOS",
         "repo": "nixpkgs",
-        "rev": "21de2b973f9fee595a7a1ac4693efff791245c34",
+        "rev": "f38a1f04d1bec1feb61fd101a0539ae2002a7087",
         "type": "github"
       },
       "original": {
