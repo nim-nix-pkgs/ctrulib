@@ -12,11 +12,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1668748718,
-        "narHash": "sha256-4H9qv6Q0xElyE+eS06jAZj0EXYzDkGQ+R2KXf+ZocVw=",
+        "lastModified": 1668754493,
+        "narHash": "sha256-JHbenxHiGb23EWeS1bnXJhPdP6lZWrqAnTdF9FmCOrY=",
         "owner": "nim-nix-pkgs",
         "repo": "ctrulib",
-        "rev": "9e88cef545ca01af6daba818a598989ca861282d",
+        "rev": "f74be279e7500e27b5bccadcb9d60fe3dd6b471e",
         "type": "github"
       },
       "original": {
